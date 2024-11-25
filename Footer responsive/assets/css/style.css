@@ -46,7 +46,7 @@ footer {
   margin: 1rem;
 }
 .social-icon:hover {
-  background-color: #121212;
+  background-color: #f64311;
   filter: invert(1);
 }
 .social-icon:nth-of-type(2) {
